@@ -1,0 +1,17 @@
+[1mdiff --git a/mini_projeto_avaliativo/sctec_mini-projeto_avaliativo.ipynb b/mini_projeto_avaliativo/sctec_mini-projeto_avaliativo.ipynb[m
+[1mindex 79a0916..ed368db 100644[m
+[1m--- a/mini_projeto_avaliativo/sctec_mini-projeto_avaliativo.ipynb[m
+[1m+++ b/mini_projeto_avaliativo/sctec_mini-projeto_avaliativo.ipynb[m
+[36m@@ -46,6 +46,12 @@[m
+     "print(\"Linhas e colunas:\", df.shape)"[m
+    ][m
+   },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "markdown",[m
+[32m+[m[32m   "id": "a473f103",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "source": [][m
+[32m+[m[32m  },[m
+   {[m
+    "cell_type": "markdown",[m
+    "id": "80227163",[m
