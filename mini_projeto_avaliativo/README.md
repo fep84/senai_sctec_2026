@@ -45,7 +45,7 @@ Cada linha é **um pedido** de **um único produto**. Um pedido pode ter várias
 
 ### Arquivos necessários
 ```
-sctec_mini-projeto_avaliativo/
+mini_projeto_avaliativo/
 ├── sctec_mini-projeto_avaliativo.ipynb   # notebook com a solução
 ├── halloween_vendas.csv                  # base de dados (mesma pasta do notebook)
 ├── README.md                             # esta documentação
@@ -54,10 +54,11 @@ sctec_mini-projeto_avaliativo/
 
 ### Como executar
 1. Instale o Python 3 e as bibliotecas: `pip install pandas notebook`.
-2. Clone o repositório: `git clone https://github.com/fep84/sctec_mini-projeto_avaliativo.git`.
-3. Confirme que `halloween_vendas.csv` está na **mesma pasta** do notebook, pois ele é lido pelo caminho relativo `"halloween_vendas.csv"`.
-4. Abra o notebook no Jupyter (`jupyter notebook`), no VS Code ou no Google Colab (no Colab, envie o CSV para a sessão).
-5. Execute todas as células em ordem, do início ao fim (*Run All*).
+2. Clone o repositório: `git clone https://github.com/fep84/senai_sctec_2026.git`.
+3. Entre na pasta do projeto: `cd senai_sctec_2026/mini_projeto_avaliativo`.
+4. Confirme que `halloween_vendas.csv` está na **mesma pasta** do notebook, pois ele é lido pelo caminho relativo `"halloween_vendas.csv"`.
+5. Abra o notebook no Jupyter (`jupyter notebook`), no VS Code ou no Google Colab (no Colab, envie o CSV para a sessão).
+6. Execute todas as células em ordem, do início ao fim (*Run All*).
 
 O arquivo CSV original não é alterado. Todas as transformações acontecem no DataFrame, em memória.
 
